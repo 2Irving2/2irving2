@@ -1,4 +1,10 @@
-### OSS 수업 관련
+### 🏀 NBA 데이터를 활용한 머신 러닝 예측 프로젝트
+
+NBA 데이터를 활용하여 승부를 예측하는 프로젝트를 진행할 예정입니다. Python과 머신 러닝 기술을 사용하여 NBA 선수들의 통계 데이터를 분석하고 예측 모델을 구축할 예정이에요
+
+목표: NBA 선수 데이터를 수집하고 분석하여 승부 예측하는 모델 구축하기
+
+프로젝트에 관심이 있거나 기여하고 싶으신 분은 언제든 연락주세요!
 
 <!--
 **2Irving2/2irving2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
